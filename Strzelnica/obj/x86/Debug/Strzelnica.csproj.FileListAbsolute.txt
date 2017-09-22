@@ -1,0 +1,23 @@
+C:\Users\TEMP\documents\visual studio 2010\Projects\Uciekajacy Przycisk\Uciekajacy Przycisk\bin\Debug\Uciekajacy Przycisk.exe
+C:\Users\TEMP\documents\visual studio 2010\Projects\Uciekajacy Przycisk\Uciekajacy Przycisk\bin\Debug\Uciekajacy Przycisk.pdb
+C:\Users\TEMP\documents\visual studio 2010\Projects\Uciekajacy Przycisk\Uciekajacy Przycisk\obj\x86\Debug\Uciekajacy_Przycisk.Form1.resources
+C:\Users\TEMP\documents\visual studio 2010\Projects\Uciekajacy Przycisk\Uciekajacy Przycisk\obj\x86\Debug\Uciekajacy_Przycisk.Properties.Resources.resources
+C:\Users\TEMP\documents\visual studio 2010\Projects\Uciekajacy Przycisk\Uciekajacy Przycisk\obj\x86\Debug\Uciekajacy Przycisk.csproj.GenerateResource.Cache
+C:\Users\TEMP\documents\visual studio 2010\Projects\Uciekajacy Przycisk\Uciekajacy Przycisk\obj\x86\Debug\Uciekajacy Przycisk.exe
+C:\Users\TEMP\documents\visual studio 2010\Projects\Uciekajacy Przycisk\Uciekajacy Przycisk\obj\x86\Debug\Uciekajacy Przycisk.pdb
+C:\Users\Oem\Downloads\Uciekajacy-przycisk-master\Uciekajacy Przycisk\Uciekajacy Przycisk\obj\x86\Debug\Uciekajacy Przycisk.exe
+C:\Users\Oem\Downloads\Uciekajacy-przycisk-master\Uciekajacy Przycisk\Uciekajacy Przycisk\obj\x86\Debug\Uciekajacy Przycisk.pdb
+C:\Users\Oem\Downloads\Uciekajacy-przycisk-master\Uciekajacy Przycisk\Uciekajacy Przycisk\bin\Debug\Uciekajacy Przycisk.exe
+C:\Users\Oem\Downloads\Uciekajacy-przycisk-master\Uciekajacy Przycisk\Uciekajacy Przycisk\bin\Debug\Uciekajacy Przycisk.pdb
+C:\Users\Oem\Downloads\Uciekajacy-przycisk-master\Uciekajacy Przycisk\Uciekajacy Przycisk\obj\x86\Debug\Uciekajacy_Przycisk.Form1.resources
+C:\Users\Oem\Downloads\Uciekajacy-przycisk-master\Uciekajacy Przycisk\Uciekajacy Przycisk\obj\x86\Debug\Uciekajacy_Przycisk.Properties.Resources.resources
+C:\Users\Oem\Downloads\Uciekajacy-przycisk-master\Uciekajacy Przycisk\Uciekajacy Przycisk\obj\x86\Debug\Uciekajacy Przycisk.csproj.GenerateResource.Cache
+C:\Users\Oem\Downloads\Strzelnica\Strzelnica\Strzelnica\obj\x86\Debug\Strzelnica.exe
+C:\Users\Oem\Downloads\Strzelnica\Strzelnica\Strzelnica\obj\x86\Debug\Strzelnica.pdb
+C:\Users\Oem\Downloads\Strzelnica\Strzelnica\obj\x86\Debug\Strzelnica.exe
+C:\Users\Oem\Downloads\Strzelnica\Strzelnica\obj\x86\Debug\Strzelnica.pdb
+C:\Users\Oem\Downloads\Strzelnica\Strzelnica\obj\x86\Debug\Strzelnica.Form1.resources
+C:\Users\Oem\Downloads\Strzelnica\Strzelnica\obj\x86\Debug\Strzelnica.Properties.Resources.resources
+C:\Users\Oem\Downloads\Strzelnica\Strzelnica\obj\x86\Debug\Strzelnica.csproj.GenerateResource.Cache
+C:\Users\Oem\Downloads\Strzelnica\Strzelnica\bin\Debug\Strzelnica.exe
+C:\Users\Oem\Downloads\Strzelnica\Strzelnica\bin\Debug\Strzelnica.pdb
